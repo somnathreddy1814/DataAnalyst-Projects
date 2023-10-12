@@ -1,0 +1,15 @@
+Forecasting the data is very usefull skill in predicting the future values.
+
+->When we have limited data to test and we want to know much about direction of the trend line  
+  the simple way is to use forecasting using excel.
+
+->With this we can we know lower and upper bound as well and direction of trend line can be predicted
+
+->here in the used data of youtube views vs date dataset we need to predict the how many view he can get on particular date in future.  
+  we have only 300 odd values to train and 6 to test.  
+  In this case prediction using excel will be good as we have very limited data.
+
+Final verdict  
+->The channel views will be growing.
+->However the rate of growth og channel views depends on extenal factors like how consistenly vedios are being uploaded and  
+  how good the vedios are and how much the content is attracting the audience.
